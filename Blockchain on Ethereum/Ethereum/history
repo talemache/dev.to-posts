@@ -1,0 +1,10 @@
+eth.accounts
+eth.getBalance
+eth.accounts("0x2c611c7b0518a023b6966df07a7d5c8814798da7")
+eth.getBalance("0x2c611c7b0518a023b6966df07a7d5c8814798da7")
+miner.start()
+eth.getBalance("0x2c611c7b0518a023b6966df07a7d5c8814798da7")
+miner.stop()
+eth.getBalance("0x2c611c7b0518a023b6966df07a7d5c8814798da7")
+quit()
+eth.getBalance("0x2c611c7b0518a023b6966df07a7d5c8814798da7")
