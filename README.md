@@ -32,4 +32,4 @@ This repository is a running list of files and links to my blog posts.
 
 
 
-                                                                                                                 [&#8593](https://github.com/talemache/dev.to-posts)
+                                                                                                                [&#8593;](https://github.com/talemache/dev.to-posts)
