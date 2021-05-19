@@ -12,4 +12,4 @@ This repository is a running list of files and links to my blog posts.
 3. [Creating A Full Stack Social Media Platform (part 1)](https://dev.to/talemache/creating-a-full-stack-social-media-platform-4eei)
 4. [Creating A Full Stack Social Media Platform (part 2)]()
 
-[↑](https://github.com/talemache/dev.to-posts)
+[TOP ↑](https://github.com/talemache/dev.to-posts)
